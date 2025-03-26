@@ -10,6 +10,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashasp25&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yashasp25&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashasp25&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
