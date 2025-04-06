@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a student pursuing B.E. in Computer Science at Jawaharlal Nehru New College of Engineering.<br>💻 I'm interested in full-stack applications, machine learning projects, and cybersecurity research.<br>🤝 I'm looking to collaborate on open-source projects, AI/ML models, and web development applications.<br>❓ 📚 I'm currently learning advance Java.<br>🔍 I can spend hours debugging, questioning my entire existence, only to realize the issue was a single missing character. 😅
+🎓 I'm currently a student pursuing B.E. in Computer Science at Jawaharlal Nehru New College of Engineering.<br>💻 I'm interested in full-stack applications, machine learning projects, and cybersecurity research.<br>🤝 I'm looking to collaborate on open-source projects, AI/ML models, and web development applications.<br>📚 I'm currently learning advance Java.<br>🔍 I can spend hours debugging, questioning my entire existence, only to realize the issue was a single missing character. 
 
 
 ## 🌐 Socials:
